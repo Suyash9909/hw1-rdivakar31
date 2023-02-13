@@ -1,8 +1,6 @@
 #!/usr/bin/python
 
-"""
-Python Core object Types
-"""
+
 
 def number():
     """
